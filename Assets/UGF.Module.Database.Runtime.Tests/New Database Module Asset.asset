@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecde29c283204463bb4e70a2974dc2ff, type: 3}
   m_Name: New Database Module Asset
   m_EditorClassIdentifier: 
+  m_databases: []
