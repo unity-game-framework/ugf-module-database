@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "com.ugf.application": "8.0.0-preview.4",
-    "com.ugf.database": "0.1.0-preview"
+    "com.ugf.database": "1.0.0-preview"
   }
 }

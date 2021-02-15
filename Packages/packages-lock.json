@@ -29,7 +29,7 @@
       "url": "https://unitygameframework.jfrog.io/artifactory/api/npm/default"
     },
     "com.ugf.database": {
-      "version": "0.1.0-preview",
+      "version": "1.0.0-preview",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -85,7 +85,7 @@
       "source": "embedded",
       "dependencies": {
         "com.ugf.application": "8.0.0-preview.4",
-        "com.ugf.database": "0.1.0-preview"
+        "com.ugf.database": "1.0.0-preview"
       }
     },
     "com.ugf.runtimetools": {
