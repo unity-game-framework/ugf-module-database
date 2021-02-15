@@ -1,0 +1,20 @@
+{
+    "name": "UGF.Module.Database.Runtime.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b5d8c4bfc269b044d98ea4148dc18267",
+        "GUID:91cb856ce6bccf64c9ee2982194560d4",
+        "GUID:6c7389a7d4bbed54e96eb1e71a69798e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

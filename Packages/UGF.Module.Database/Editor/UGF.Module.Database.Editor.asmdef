@@ -1,0 +1,19 @@
+{
+    "name": "UGF.Module.Database.Editor",
+    "rootNamespace": "UGF.Module.Database.Editor",
+    "references": [
+        "GUID:b5d8c4bfc269b044d98ea4148dc18267",
+        "GUID:abdd615e45137c74ca2ce9c636c78c15"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
