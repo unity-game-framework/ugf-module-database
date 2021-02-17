@@ -4,14 +4,14 @@ UGF.Module.Database
 
 ## Info
 
-- **Version**: `1.0.0-preview`
+- **Version**: `1.0.0-preview.1`
 - **Unity**: `2021.1`
 - **API Compatibility Level**: `.NET Standard 2.0`
 
 ### Dependencies
 
 - `com.ugf.application`: `8.0.0-preview.4`
-- `com.ugf.database`: `1.0.0-preview`
+- `com.ugf.database`: `1.0.0-preview.1`
 
 
 ### Description
