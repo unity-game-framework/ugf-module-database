@@ -14,7 +14,10 @@ namespace UGF.Module.Database.Runtime
 
         protected override IApplicationModuleDescription OnBuildDescription()
         {
-            var description = new DatabaseModuleDescription();
+            var description = new DatabaseModuleDescription
+            {
+                RegisterType = typeof(IDatabaseModule)
+            };
 
             for (int i = 0; i < m_databases.Count; i++)
             {
