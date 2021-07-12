@@ -15,3 +15,7 @@ MonoBehaviour:
   m_databases:
   - m_guid: 3e6a4fca725fb0d48bd9f647cbe54ea8
     m_asset: {fileID: 11400000, guid: 3e6a4fca725fb0d48bd9f647cbe54ea8, type: 2}
+  - m_guid: da17236dda38728469d68b057bb1b14c
+    m_asset: {fileID: 11400000, guid: da17236dda38728469d68b057bb1b14c, type: 2}
+  - m_guid: df95caa1d9990a5439ebb056c8b97df9
+    m_asset: {fileID: 11400000, guid: df95caa1d9990a5439ebb056c8b97df9, type: 2}
