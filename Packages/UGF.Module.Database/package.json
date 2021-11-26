@@ -2,7 +2,7 @@
   "name": "com.ugf.module.database",
   "displayName": "UGF.Module.Database",
   "version": "1.0.0-preview.3",
-  "unity": "2021.1",
+  "unity": "2021.2",
   "apiCompatibility": ".NET Standard 2.0",
   "description": "Module to manage multiple databases in application.",
   "author": {
@@ -19,7 +19,8 @@
     "registry": "https://unitygameframework.jfrog.io/artifactory/api/npm/default"
   },
   "dependencies": {
-    "com.ugf.application": "8.0.0-preview.8",
-    "com.ugf.database": "1.0.0-preview.2"
+    "com.ugf.application": "8.0.0",
+    "com.ugf.database": "1.1.0-preview",
+    "com.ugf.data": "2.0.0-preview"
   }
 }
