@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-preview.4](https://github.com/unity-game-framework/ugf-module-database/releases/tag/1.0.0-preview.4) - 2021-11-26  
+
+### Release Notes
+
+- [Milestone](https://github.com/unity-game-framework/ugf-module-database/milestone/4?closed=1)  
+    
+
+### Added
+
+- Add DatabaseLoaderController ([#10](https://github.com/unity-game-framework/ugf-module-database/pull/10))  
+    - Update package _Unity_ version to `2021.2`.
+    - Update dependencies: `com.ugf.application` to `8.0.0` and `com.ugf.database` to `1.1.0-preview`, add `com.ugf.data` of `2.0.0-preview` version.
+    - Add `DatabaseLoaderController` class as controller to load `IDatabase` from specific data storage.
+
 ## [1.0.0-preview.3](https://github.com/unity-game-framework/ugf-module-database/releases/tag/1.0.0-preview.3) - 2021-07-12  
 
 ### Release Notes
